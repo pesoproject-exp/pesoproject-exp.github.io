@@ -1,1 +1,0 @@
-Stewardship and advancement of the current and future ecosystem of scientific computing software.
