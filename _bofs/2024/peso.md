@@ -6,7 +6,7 @@ layout: page
 
 [Go To Main BOF Schedule Page](/bofs)
 
-## Introducing CASS: The Consortium for the Advancement of Scientific Software 
+## Introducing PESO: Partnering for Scientific Software Ecosystem Stewardship Opportunities 
 
 ### Speakers
 
