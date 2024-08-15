@@ -6,7 +6,7 @@ layout: page
 
 ## Contribute to PESO
 
-Any member of the computational science and engineering community who has an interest in improving leadership scientific software teams is encouraged to submit content to PESO.  
+Any member of the computational science and engineering community who has an interest in improving the leadership of scientific software teams is encouraged to submit content to PESO.  
 
 While we welcome any relevant contribution to PESO,
 

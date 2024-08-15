@@ -6,7 +6,7 @@ layout: page
 
 # PESO Collaboration Strategy
 
-Through the above collaborations, PESO proposes to provide the following:
+Through collaborations, PESO proposes to provide the following:
 - Software stacks and infrastructure that provide software teams with testing, hardening, integration, distribution, and intermediate user support of their product, either as the final destination for their product, an early-access staging environment for pre-release versions of their product, or both. Specific support includes:
     - **Spack:** Assistance in creating and expanding [Spack](https://spack.io) capabilities for product build, testing, integration, and distribution.
     - **E4S:** Support for product integration and distribution in the Extreme-scale Scientific Software Stack ([E4S](https://e4s.io)) as needed depending on a product team’s distribution strategy.
@@ -32,7 +32,7 @@ We anticipate that CoP teams will offer opportunities for product communities an
 
 PESO welcomes engagement with stakeholders and partners:
 - **Application teams:** Through regular planning and interaction, PESO and its software community teams will engage with application teams who depend upon DOE-sponsored libraries and tools.  PESO will coordinate the delivery of capabilities via E4S, container, cloud and facilities environments to assure that application teams have access to the products they need in a variety of settings.
-- **DOE Computing Facilities:** Through regular planning and interaction, PESO intends to work with facilities staff to provide and support a full stack of DOE-sponsored libraries and tools via E4S, in collaboration with commercial E4S partners. PESO will coordinate with the DOE-sponsored software team to assure that teams are informed of user and facility needs.  We anticipate annual planning cycles with change management during cycles.
-- **Computer system vendors:** PESO anticipates a variety of vendor engagements to assure that DOE-sponsor libraries and tools are available and supported as part of or as complementary to vendor software.
+- **DOE Computing Facilities:** Through regular planning and interaction, PESO intends to work with facilities staff to provide and support a full stack of DOE-sponsored libraries and tools via E4S, in collaboration with commercial E4S partners. PESO will coordinate with the DOE-sponsored software team to ensure that teams are informed of user and facility needs.  We anticipate annual planning cycles with change management during cycles.
+- **Computer system vendors:** PESO anticipates a variety of vendor engagements to ensure that DOE-sponsor libraries and tools are available and supported as part of or as complementary to vendor software.
 - **Commercial software providers:** PESO anticipates working with commercial providers in the co-development and support of DOE-sponsored software to industry, US agencies, and international partners.
 - **US Agencies:** PESO anticipates collaborating with other US agencies on making DOE-sponsored software available to their users and assuring compatibility with their own software environments.
