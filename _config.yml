@@ -2,6 +2,9 @@ title: PESO
 description: The PESO Project
 
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 plugins:
   - jekyll-sitemap    # Adds sitemap to the website at /sitemap.xml
