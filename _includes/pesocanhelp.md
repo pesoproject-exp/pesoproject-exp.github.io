@@ -1,4 +1,6 @@
+<p>
 PESO’s vision is that DOE software investments will have maximum impact by providing a scientific software ecosystem via Spack and E4S, consisting of high-quality libraries and tools that deliver the latest high-performance algorithms and capabilities to applications at DOE and beyond. 
-
+</p>
+<p>
 Scientific libraries and tools have been developed for decades, providing value to the scientific community, primarily via distinct and independent efforts.  PESO provides a mechanism to bring these efforts together, to provide a more coherent and comprehensive set of capabilities to the scientific community.  By providing a curated portfolio of high-quality scientific libraries and tools, PESO will enable accelerated scientific advances for applications that can depend upon the capabilities we provide.  PESO will also provide a mechanism for the scientific community to engage with the developers of these libraries and tools, to provide feedback and to influence the direction of the development of these capabilities.  PESO will also provide a mechanism for the scientific community to engage with the developers of these libraries and tools, to provide feedback and to influence the direction of the development of these capabilities.
-
+</p>
