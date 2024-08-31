@@ -4,7 +4,6 @@ title: PESO Team Leadership
 description: PESO Team Leadership
 ---
 
-## PESO Team Leadership
 
 | **Team Member** | **Affiliation** | **Role** |
 | --- | --- |

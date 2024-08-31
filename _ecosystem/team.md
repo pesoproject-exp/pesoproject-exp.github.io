@@ -3,7 +3,7 @@ title: PESO Team
 description: List of PESO team members
 layout: page
 ---
-## PESO Team
+
 
 | **Team Member** | **Affiliation** |
 | --- | --- |

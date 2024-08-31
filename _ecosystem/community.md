@@ -1,11 +1,10 @@
 ---
 layout: page
-title: To be determined
-description: TBD
+title: PESO Collaboration Strategy
+description: PESO Collaboration Strategy
 ---
 
 
-# PESO Collaboration Strategy
 
 Through collaborations, PESO proposes to provide the following:
 - Software stacks and infrastructure that provide software teams with testing, hardening, integration, distribution, and intermediate user support of their product, either as the final destination for their product, an early-access staging environment for pre-release versions of their product, or both. Specific support includes:
