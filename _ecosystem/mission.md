@@ -1,9 +1,9 @@
 ---
 layout: page
-title: To be determined
-description: TBD
+title: PESO Mission
+description: PESO Mission
 ---
 
-## TBD
+## PESO Mission
 
-To be determined
+Promote the development and use of scientific software as an ecosystem with stakeholders and partners who engage with the US Department of Energy (DOE) in developing and using advanced high-performance computing.

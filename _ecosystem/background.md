@@ -1,82 +1,16 @@
 ---
 layout: page
-title: Powers of 10
-description: A summary of the benefits of the PESO-sponsored software ecosystem
+title: PESO Background
+description: Brief background on PESO
 ---
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Powers of 10</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-            padding: 30px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-        .section h2 {
-            font-size: 1.5em;
-            margin-bottom: 10px;
-        }
-        .section p {
-            font-size: 1.2em;
-            margin-bottom: 10px;
-        }
-        .highlight {
-            color: #0056b3;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Powers of 10</h1>
 
-        <div class="section">
-            <h2><span class="highlight">100,000+</span> Lines of code replaced with high-quality libs & tools</h2>
-            <p>Using robust open-source libraries and tools helps you eliminate native source code that is less capable, more fragile, and harder to maintain.</p>
-        </div>
+## PESO Background
 
-        <div class="section">
-            <h2><span class="highlight">10,000+</span> Community members via ecosystem collaborations</h2>
-            <p>Shared experiences using the same ecosystem increases community knowledge base, improved software capabilities, cross-teaming.</p>
-        </div>
+Scientific libraries and tools have been developed for decades, providing value to the scientific community, primarily via distinct and independent efforts.  PESO provides a mechanism to bring these efforts together, to provide a more coherent and comprehensive set of capabilities to the scientific community.  By providing a curated portfolio of high-quality scientific libraries and tools, PESO will enable accelerated scientific advances for applications that can depend upon the capabilities we provide.  PESO will also provide a mechanism for the scientific community to engage with the developers of these libraries and tools, to provide feedback and to influence the direction of the development of these capabilities.  PESO will also provide a mechanism for the scientific community to engage with the developers of these libraries and tools, to provide feedback and to influence the direction of the development of these capabilities.
 
-        <div class="section">
-            <h2><span class="highlight">1,000+</span> Code teams share ecosystem costs & benefits</h2>
-            <p>Pooling investments and making the software ecosystem available everywhere optimizes cost and benefit sharing across many users.</p>
-        </div>
 
-        <div class="section">
-            <h2><span class="highlight">100+</span> Speedup using advanced devices like GPUs</h2>
-            <p>ECP-sponsored applications realize a factor of 100 or more science-speedup by reformulating algorithms and software to exploit GPUs.</p>
-        </div>
+The PESO Project is led by the leadership team from the US Department of Energy (DOE) Exascale Computing Project (ECP) Software Technology (ST) Focus Area and by the key technical leaders of the [Spack](https://spack.io) project, the [E4S](https://e4s.io), and the Software Development Toolkits (SDKs).
 
-        <div class="section">
-            <h2><span class="highlight">10+</span> Reduction in build times via Spack build caches</h2>
-            <p>Spack build caches reduce re-build times by a factor of 10 or more, greatly reducing staff wait times and accelerating debugging and reconfiguration activities.</p>
-        </div>
+As part of ECP efforts, we have facilitated the efforts of about 250 scientists from DOE labs, universities, and partner commercial software companies to create a first-of-a-kind software ecosystem for scientific software sponsored by DOE. The team has also been heavily involved in the [IDEAS Project](https://ideas-productivity.org), the [Better Scientific Software (BSSw)](https://bssw.io) project, Sustainable Research Pathways (SRP), and more, as part of creating a vibrant community around the productive and sustainable creation and use of software to advance scientific discovery in service of the DOE mission.
 
-        <div class="section">
-            <h2><span class="highlight">1</span> Source code base for all computing systems</h2>
-            <p>Your single source code base that achieves performance portability, now and in the future, using libraries, tools, and compilers available via Spack and E4S.</p>
-        </div>
-    </div>
-</body>
+PESO intends to participate in the extension and expansion of software-ecosystem sustainment toward the continuation of the success that ECP has started.

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: To be determined
-description: TBD
+title: PESO Publications
+description: PESO Publications
 ---
 
 ## TBD
