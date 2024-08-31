@@ -1,6 +1,6 @@
 
 
-<ol>
+<ul class="text-gray-600" style="list-style: circle; margin-left: 1em">
     <li>Installing 3rd party libs and tools</li>
     <li>Managing library version updates</li>
     <li>Adopting new libraries and tools</li>
@@ -9,4 +9,4 @@
     <li>Out-of-date algorithms</li>
     <li>Awareness of latest SW practices</li>
     <li>Opportunities to improve your software</li>
-</ol>
+</ul>
