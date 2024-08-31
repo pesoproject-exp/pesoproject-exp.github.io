@@ -7,3 +7,4 @@
 - Out-of-date algorithms
 - Awareness of latest SW practices
 - Opportunities to improve your software
+
