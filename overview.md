@@ -5,8 +5,6 @@ description: PESO Project Overview
 permalink: /overview
 ---
 
-## PESO Project Overview
-
 The PESO project is a community-driven effort to promote the development and use of scientific software as an ecosystem with stakeholders and partners who engage with the US Department of Energy (DOE) in developing and using advanced high-performance computing. The PESO project is a collaboration built on foundations from efforts of the [Exascale Computing Project (ECP)](https://exascaleproject.org/) and the [IDEAS-ECP](https://ideas-productivity.org/) project.
 
 PESO is a member of the [Consortium for the Advancement of Scientific Software (CASS)](https://cass.community).
